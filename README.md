@@ -96,8 +96,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonard0912&theme=radical" alt="Leonards Contributions"/>
+  <a href="https://github.com/leonard0912">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonard0912&theme=radical" alt="Leonard's Contributions"/>
   </a>
 </p>
 
@@ -108,4 +108,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonard0912&custom_title=Al%20Leonard's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Leonard's Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonard0912&custom_title=Al%20Leonard's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
